@@ -1,0 +1,4 @@
+name: "letsencrypt-prod"
+adminEmail: ""
+secretName: "letsencrypt-prod"
+ingressClass: "nginx"
