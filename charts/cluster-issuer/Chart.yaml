@@ -2,5 +2,5 @@ apiVerson: v2
 name: cluster-issuer
 description: ClusterIssuer and Issuer for cert-manager
 type: application
-version: 0.0.1
-appVersion: 0.0.1
+version: 0.0.2
+appVersion: 0.0.2
