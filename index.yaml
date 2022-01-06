@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   cluster-issuer:
   - apiVersion: v1
+    appVersion: 0.0.2
+    created: "2022-01-06T03:29:26.229560754Z"
+    description: ClusterIssuer and Issuer for cert-manager
+    digest: 1b7f0ebc1250bf5f830e9e16c084b0305e4c02bd73bcb78c91bf69e5195d3ced
+    name: cluster-issuer
+    type: application
+    urls:
+    - https://github.com/shoorikl/helm-charts/releases/download/cluster-issuer-0.0.2/cluster-issuer-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v1
     appVersion: 0.0.1
     created: "2022-01-06T03:27:48.583604488Z"
     description: ClusterIssuer and Issuer for cert-manager
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/shoorikl/helm-charts/releases/download/cluster-issuer-0.0.1/cluster-issuer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-01-06T03:27:48.583610288Z"
+generated: "2022-01-06T03:29:26.229569855Z"
