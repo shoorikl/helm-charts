@@ -8,3 +8,4 @@ Cluster-issuer is a simplistic helm chart that deployes a ClusterIssuer and an I
 * Look for available versions: `helm search repo cluster-issuer --versions`
 * Create a values file `myvalues.yaml`
 * Pick a version, and install: `helm install cluster-issuer shoorikl/cluster-issuer --create-namespace -n NAMESPACE --version VERSION -f myvalues.yaml`
+
